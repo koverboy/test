@@ -1,0 +1,14 @@
+
+
+@font-face {
+    font-family: MyUniqueFont;
+    src: url('9404.ttf');
+}
+html{
+    font-family: MyUniqueFont, sans-serif;
+}
+.head{
+    width: 1024px;
+
+
+}
